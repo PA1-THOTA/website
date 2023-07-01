@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client";
 
 // INDEX.JS IS THE SINGLE REUSABLE FILE
 
-
 // VERSION 2  START
            
 
