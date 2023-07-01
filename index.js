@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// 12:03
-
 // VERSION 2  START
            
 
