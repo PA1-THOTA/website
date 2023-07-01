@@ -1,9 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// INDEX.JS IS THE SINGLE REUSABLE FILE
-
-// PAVAN THOTA
+// 12:03
 
 // VERSION 2  START
            
